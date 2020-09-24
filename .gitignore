@@ -1,5 +1,5 @@
 
-#*.mat
+*.mat
 .DS_Store
 
 # Matlab
