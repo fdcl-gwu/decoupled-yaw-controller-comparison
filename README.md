@@ -1,6 +1,7 @@
 # Decoupled-Yaw Controller Comparison
 
-This repository includes the codes used for generating the results in the paper "Geometric Adaptive Controls of a Quadrotor UAV with Decoupled Attitude Dynamics"
+This repository includes the codes used for generating the results in the paper "Geometric Adaptive Controls of a Quadrotor UAV with Decoupled Attitude Dynamics".
+For other controllers used at FDCL, or for other progamming languages, please check [uav_geometric_control](https://github.com/fdcl-gwu/uav_geometric_control) repository.
 
 The repository is structures as follows:
 - **FDCL**: includes simulations for two controllers
